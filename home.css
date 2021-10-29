@@ -1,0 +1,48 @@
+a:hover{
+
+    text-decoration: underline;
+
+}
+.name ul a{
+    /* justify-content: space-around ; */
+    margin: 10px;
+    margin-bottom:10px;
+    text-decoration: none;
+    text-align: right;
+}
+.nav{
+    background-color: rgb(158, 151, 151);
+}
+#change img{
+    height: 500px;
+    width: 500px;
+    background-size: cover;
+}
+body{
+  background-image: url('https://media.istockphoto.com/photos/electric-bus-picture-id1251124954?b=1&k=20&m=1251124954&s=170667a&w=0&h=tgWSnCk3DPW2jThpya8EAxydfi0Y3nKp01pr6kLE_qk='
+  );
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.new:hover{
+color: rgb(255, 0, 119);
+transition: 1s;
+
+}
+    
+.nav a{
+    justify-content: right;
+}
+
+.button a{
+    background-color: yellow;
+    text-decoration: none;
+    border-radius: 3px;
+    border-color: black;
+}
+.button1 a{
+    background-color: yellow;
+    text-decoration: none;
+    border-radius: 3px;
+    border-color: black;
+}
